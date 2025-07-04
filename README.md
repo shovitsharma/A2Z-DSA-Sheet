@@ -7,7 +7,7 @@ This repository contains my personal solutions to the [A2Z DSA Sheet](https://ta
 
 📘 **Sheet Link:** [A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)  
 🧠 **Goal:** Build strong DSA foundations + Interview readiness  
-💻 **Language Used:** C++ / Java / Python (based on preference)
+💻 **Language Used:** Python 
 
 ---
 
