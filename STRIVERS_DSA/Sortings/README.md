@@ -54,6 +54,13 @@ This folder contains Python implementations of classic sorting algorithms. Each 
 - **Space Complexity:** O(1)
 - **Key Points:**
   - Demonstrates recursion with sorting.
+## 7. Quick Sort (`quick_sort.py`)
+- **Description:**
+  -A recursive implementation of the Quick Sort algorithm that follows the divide-and-conquer strategy.
+- **Time Complexity:** O(nlogn)
+- **Space Complexity:** O(1)
+- **Key Points:**
+  - Demonstrates recursion and partitioning.
 
 ---
 
