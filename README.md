@@ -3,9 +3,9 @@
 
 # A2Z DSA Sheet – Complete Progress
 
-This repository contains my personal solutions to the [A2Z DSA Sheet](https://takeuforward.org/interviews/a2z-dsa-course/) by Take U Forward. It covers a well-structured path for Data Structures and Algorithms, from absolute basics to advanced level concepts.
+This repository contains my personal solutions to the [A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) by Take U Forward. It covers a well-structured path for Data Structures and Algorithms, from absolute basics to advanced level concepts.
 
-📘 **Sheet Link:** [A2Z DSA Sheet](https://takeuforward.org/interviews/a2z-dsa-course/)  
+📘 **Sheet Link:** [A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)  
 🧠 **Goal:** Build strong DSA foundations + Interview readiness  
 💻 **Language Used:** C++ / Java / Python (based on preference)
 
